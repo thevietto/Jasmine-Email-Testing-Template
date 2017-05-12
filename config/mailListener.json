@@ -1,0 +1,10 @@
+{
+  "username": "your@gmail.com",
+  "password": "your-password",
+  "host": "imap.gmail.com",
+  "port": 993,
+  "tls": true,
+  "searchFilter": "UNSEEN",
+  "markSeen": true,
+  "mailbox": "INBOX"
+}

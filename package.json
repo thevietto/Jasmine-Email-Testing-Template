@@ -1,0 +1,16 @@
+{
+  "name": "jasmine-email-testing-template",
+  "description": "Simple email testing template using jasmine and mail-listener2",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {
+    "test": "jasmine JASMINE_CONFIG_PATH=spec/support/jasmine.json"
+  },
+  "author": "Maxim Ignatyev",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.6.0",
+    "jsonfile": "^3.0.0",
+    "mail-listener2": "^0.3.1"
+  }
+}
