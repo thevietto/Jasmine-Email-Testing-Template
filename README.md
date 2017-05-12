@@ -6,5 +6,8 @@ I am using [mail-listener2](https://github.com/chirag04/mail-listener2) as an em
 # Setup
 
 1) Edit [mailListener.json](config/mailListener.json) file according to your email account settings.
-2) Run:
-`dsvsdv`
+2) Run: `npm install` to download dependencies
+
+# Run
+
+`npm test`
